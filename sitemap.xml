@@ -2,23 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://staticgen-digitalquest.c9users.io/</loc>
-    <lastmod>2014-10-13T20:07:19+00:00</lastmod>
+    <loc>http://example.org/</loc>
+    <lastmod>2016-11-20T05:31:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://staticgen-digitalquest.c9users.io/post/first/</loc>
-    <lastmod>2014-10-13T20:07:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://staticgen-digitalquest.c9users.io/post/second/</loc>
-    <lastmod>2015-07-18T14:08:45+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://staticgen-digitalquest.c9users.io/post/third/</loc>
-    <lastmod>2015-07-18T14:53:21+02:00</lastmod>
+    <loc>http://example.org/post/whatwedo/</loc>
+    <lastmod>2016-11-20T05:31:07+00:00</lastmod>
   </url>
   
 </urlset>
